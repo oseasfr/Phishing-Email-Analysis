@@ -18,5 +18,5 @@
 [AbuseIPDB](https://www.abuseipdb.com/ "AbuseIPDB")
 
 ## Analysis
-[Phishing Analysis Steps](https://app.letsdefend.io/academy/lesson/Phishing-Attack/ "Phishing Analysis Steps")/
+[Phishing Analysis Steps](https://app.letsdefend.io/academy/lesson/Phishing-Attack/ "Phishing Analysis Steps")\
 [ISIT Phishing](https://isitphishing.org/ "ISIT Phishing")
